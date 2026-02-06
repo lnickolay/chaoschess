@@ -114,7 +114,7 @@ npm run dev
 
 ### Setup & Run (Windows)
 
-Steps 1 and 3 are identical to the ones listed for Linux / macOS above, only step 2 differs slightly:
+Steps 1, 3 and 4 are identical to the ones listed for Linux / macOS above, only step 2 differs slightly:
 
 2. Start the backend (can be done in the same terminal as step 1):
 
