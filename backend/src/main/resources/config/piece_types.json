@@ -1,0 +1,89 @@
+{
+  "pieceTypes": {
+    "King": {
+      "symbol": "K",
+      "movement": "(0,1)*/c(0,0)",
+      "role": "KING_LIKE"
+    },
+    "Queen": {
+      "symbol": "Q",
+      "movement": "(0,1)*n",
+      "role": "STANDARD"
+    },
+    "Rook": {
+      "symbol": "R",
+      "movement": "(0,1)+n",
+      "role": "ROOK_LIKE"
+    },
+    "Bishop": {
+      "symbol": "B",
+      "movement": "(1,1)+n",
+      "role": "STANDARD"
+    },
+    "Knight": {
+      "symbol": "N",
+      "movement": "(1,2)*",
+      "role": "STANDARD"
+    },
+    "Pawn": {
+      "symbol": "P",
+      "movement": "m(0,1)/mie(0,1)2,2/xp(1,1)|",
+      "role": "PAWN_LIKE"
+    },
+    "Wazir": {
+      "symbol": "W",
+      "movement": "(0,1)+",
+      "role": "STANDARD"
+    },
+    "Ferz": {
+      "symbol": "F",
+      "movement": "(1,1)+",
+      "role": "STANDARD"
+    },
+    "Alfil": {
+      "symbol": "A",
+      "movement": "(2,2)+",
+      "role": "STANDARD"
+    },
+    "Zebra": {
+      "symbol": "Z",
+      "movement": "(2,3)*",
+      "role": "STANDARD"
+    },
+    "Giraffe": {
+      "symbol": "G",
+      "movement": "(1,4)*",
+      "role": "STANDARD"
+    },
+    "Mann": {
+      "symbol": "M",
+      "movement": "(0,1)*",
+      "role": "STANDARD"
+    },
+    "Archbishop": {
+      "symbol": "AB",
+      "movement": "(1,1)+n/(1,2)*",
+      "role": "STANDARD"
+    },
+    "Chancellor": {
+      "symbol": "C",
+      "movement": "(0,1)+n/(1,2)*",
+      "role": "STANDARD"
+    },
+    "Amazon": {
+      "symbol": "AM",
+      "movement": "(0,1)*n/(1,2)*",
+      "role": "STANDARD"
+    },
+    "Centaur": {
+      "symbol": "CE",
+      "movement": "(0,1)*/(1,2)*",
+      "role": "STANDARD"
+    },
+    "Nightrider": {
+      "symbol": "NR",
+      "movement": "(1,2)*n",
+      "role": "STANDARD"
+    }
+  }
+}
